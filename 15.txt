@@ -1,0 +1,5 @@
+v = c(10, 10, 10, 20, 30, 40, 40, 40, 50)
+print("Original vector:")
+print(v)
+print("Distinct values of the said vector:")
+print(unique(v))
